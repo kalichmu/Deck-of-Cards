@@ -4,7 +4,7 @@ This repository implements a library representing a deck of playing cards.
 A regular deck of cards consists of four suits (hearts, clubs, diamonds, spades) and 13 cards in each 
 suit (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) for a total of 52 cards (ignoring the jokers).
 
-The following functionalities can be done with a deck of cards:
+The following functionalities can be performed with a deck of cards:
 * Shuffle:  Randomizes the order of the cards.
 
 * Cut:  Splits the deck at a point chosen by the player.
